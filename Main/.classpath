@@ -14,5 +14,15 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7.zip"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-examples-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zheng/Desktop/操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
